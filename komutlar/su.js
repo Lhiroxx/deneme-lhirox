@@ -1,6 +1,6 @@
 
 exports.help = {
   name: 'su', 
-  description: 'Şakir hakkında bilgi verir',
+  description:  hakkında bilgi verir',
   usage: 'su'
 };
